@@ -6,4 +6,4 @@ GAN tryout series 1. DCGAN
 
 pytorch implement of Simpson tf2 DCGAN
 
-![final](https://github.com/milez770/cave_DCGAN/blob/master/results/image_at_epoch_0270.png)
+![finalImage](https://github.com/milez770/cave_DCGAN/blob/master/results/epoch_00099.png)
